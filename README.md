@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @aequi07
-- 👀 I’m interested in, well, learning everything (besides biology).
+- 👀 I’m interested in learning more python.
 - 🌱 I’m currently learning p5.js.
-- 💞️ I’m looking to collaborate on anything, depending on what it is.
 - 📫 Reach me at kestevanell@gmail.com
 - 😄 Pronouns: (she/her)
 - ⚡ Fun fact: I love lasagna.
