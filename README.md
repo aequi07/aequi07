@@ -2,8 +2,7 @@
 - 👀 I’m interested in learning more python.
 - 🌱 I’m currently learning p5.js.
 - 📫 Reach me at kestevanell@gmail.com
-- 😄 Pronouns: (she/her)
-- ⚡ Fun fact: I love lasagna.
+- 😄 Pronouns: (she/they)
 
 <!---
 aequi07/aequi07 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
